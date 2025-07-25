@@ -1,0 +1,27 @@
+# 仮想環境
+svr_env/
+
+# Pythonキャッシュやコンパイル済みファイル
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter Notebookのチェックポイント
+.ipynb_checkpoints/
+
+# VSCodeなどのエディタ関連
+.vscode/
+*.code-workspace
+
+# OS固有のファイル
+.DS_Store
+Thumbs.db
+
+# ログ・一時ファイル
+*.log
+*.tmp
+
+# pipが作成するインストールキャッシュ
+pip-wheel-metadata/
