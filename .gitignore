@@ -25,3 +25,8 @@ Thumbs.db
 
 # pipが作成するインストールキャッシュ
 pip-wheel-metadata/
+
+# 分割した結果png
+MSE_C.png
+MSE_epsilon.png
+MSE_gamma.png
